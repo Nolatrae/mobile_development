@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Случайный фильм JSON</string>
+    <string name="next">Следующий фильм</string>
+    <string name="reset">Начать заново</string>
+</resources>

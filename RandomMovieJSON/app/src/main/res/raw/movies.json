@@ -1,0 +1,27 @@
+{ "movies": [
+  {
+    "name" : "Дэдпул",
+    "year": 2016,
+    "rating": 9.4,
+    "critics_rating": 5.2,
+    "language": ["Russian", "English"],
+    "viewing_area": ["Kinopoisk", "Disney+"]
+  },
+  {
+    "name" : "Тачки",
+    "year": 2010,
+    "rating": 10.0,
+    "critics_rating": 9.4,
+    "language": ["Russian", "English", "German"],
+    "viewing_area": ["TV", "Netflix"]
+  },
+  {
+    "name" : "Astral",
+    "year": 2014,
+    "rating": 6.1,
+    "critics_rating": 2.3,
+    "language": ["Russian", "English"],
+    "viewing_area": ["Disney+", "Ivi"]
+  }
+]
+}
