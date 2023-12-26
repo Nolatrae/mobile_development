@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fly Fly</string>
+    <string name="start">Откуда</string>
+    <string name="end">Куда</string>
+    <string name="selectdate">Выбранная дата</string>
+    <string name="count">Кол-во:</string>
+    <string name="par1">взрослых</string>
+    <string name="par2">детей</string>
+    <string name="find">Найти</string>
+    <string-array name="cityes">
+        <item>Выберите</item>
+        <item>Иркутск</item>
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+        <item>Рязань</item>
+    </string-array>
+</resources>
