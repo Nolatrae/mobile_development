@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Случайный фильм</string>
+    <string name="reset">Заново</string>
+    <string name="next">Следующий</string>
+    <string name="listShowMoviesReloaded">Обновлённый список</string>
+    <string name="listShowMuviesReloaded">Фильм:</string>
+    <string name="moviesOver">Фильмы закончились(</string>
+    <string name="hello">Список фильмов</string>
+
+    <string-array name="movies">
+        <item>Форсаж 1</item>
+        <item>Мстители</item>
+        <item>Крутые парни</item>
+        <item>Плохие парни</item>
+        <item>Мальчишник в Вегасе</item>
+        <item>Аватар</item>
+        <item>Двойная жизнь Уве</item>
+        <item>Одноклассники</item>
+    </string-array>
+</resources>
